@@ -25,7 +25,7 @@
 <br>
 <p float="left">
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xuwudawei" alt="xuwudawei" /></a>
+  <a href="https://github.com/xuwudawei"><img src="https://github-profile-trophy.vercel.app/?username=xuwudawei" alt="xuwudawei" /></a>
   <a><img  src="https://github-readme-streak-stats.herokuapp.com/?user=xuwudawei&" alt="xuwudawei" /></a>
 </p>
 
