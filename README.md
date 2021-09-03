@@ -17,7 +17,7 @@
 ---
 
 <a href="https://github.com/xuwudawei">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuwudawei&include_all_commits=true&count_private=true&show_icons=true&theme=dark&line_height=27" alt="David's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuwudawei&include_all_commits=false&count_private=true&show_icons=true&theme=dark&line_height=27" alt="David's github stats"/>
 </a>
 <a href="https://github.com/xuwudawei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuwudawei&theme=light&layout=compact&langs_count=10&line_height=27&hide_langs_below=1" />
