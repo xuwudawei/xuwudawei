@@ -7,7 +7,7 @@
 [![Stack_Overflow Badge](https://img.shields.io/badge/-%40KingDavid-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/users/14708858/david)](https://stackoverflow.com/users/14708858/david) 
 
 ## A passionate Full Stack Developer and a student, currently studying Computer Science and Engineering at Lovely Professional University, India.
-- 🔭 I’m currently working on **a School Management Project.**
+- 🔭 I’m currently working on **a Food Delivery Project.**
 - 🌱 I’m currently learning **flutter,React etc.**
 - 👨‍💻 All of my projects are available at [https://kingdavid.engineer/](https://kingdavid.engineer/)
 - 📫 How to reach me **xuwudawei@outlook.com**
