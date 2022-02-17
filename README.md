@@ -7,10 +7,10 @@
 [![Stack_Overflow Badge](https://img.shields.io/badge/-%40KingDavid-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/users/14708858/david)](https://stackoverflow.com/users/14708858/david) 
 
 ## A passionate Full Stack Developer and a student, currently studying Computer Science and Engineering at Lovely Professional University, India.
-- 🔭 I’m currently working on **a Food Delivery Project.**
-- 🌱 I’m currently learning **flutter,React etc.**
+- 🔭 I’m currently working on **a Pyament Gateway Project.**
+- 🌱 I’m currently learning **Node,React etc.**
 - 👨‍💻 All of my projects are available at [https://kingdavid.engineer/](https://kingdavid.engineer/)
-- 📫 How to reach me **xuwudawei@outlook.com**
+- 📫 How to reach me **xuwudawei100@gmail.com**
 - 📄 Know about my experiences [https://kingdavid.engineer/static/DavidResume-a4dbfe87bd373f584ffa913a3dd9e9b7.pdf](https://kingdavid.engineer/static/DavidResume-a4dbfe87bd373f584ffa913a3dd9e9b7.pdf)
 - ⚡ Fun fact **"I have a PHD Degree in Chinese Language(Speaking and Writing)."**
 
