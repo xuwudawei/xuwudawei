@@ -8,7 +8,7 @@
 
 ## A passionate Full Stack Developer and a student, currently studying Computer Science and Engineering at Lovely Professional University, India.
 - 🔭 I’m currently working on **a Pyament Gateway Project.**
-- 🌱 I’m currently learning **Node,React etc.**
+- 🌱 I’m currently learning **NodeJs,React etc.**
 - 👨‍💻 All of my projects are available at [https://kingdavid.engineer/](https://kingdavid.engineer/)
 - 📫 How to reach me **xuwudawei100@gmail.com**
 - 📄 Know about my experiences [https://kingdavid.engineer/static/DavidResume-a4dbfe87bd373f584ffa913a3dd9e9b7.pdf](https://kingdavid.engineer/static/DavidResume-a4dbfe87bd373f584ffa913a3dd9e9b7.pdf)
