@@ -6,25 +6,26 @@
 [![Instagram Badge](https://img.shields.io/badge/-%40KingDavid-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/opokudavidosei/)](https://www.instagram.com/opokudavidosei/) 
 [![Stack_Overflow Badge](https://img.shields.io/badge/-%40KingDavid-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/users/14708858/david)](https://stackoverflow.com/users/14708858/david) 
 
-## A passionate Full Stack Developer and a student, currently studying Computer Science and Engineering at Lovely Professional University, India.
-- 🔭 I’m currently working on **a Delivery Project.**
-- 🌱 I’m currently learning **NodeJs,React etc.**
+## An experienced Full Stack Mobile App Developer.
+- 🔭 I’m currently working on **a zomato clone Project.**
+- 🌱 I love building things.
 - 👨‍💻 All of my projects are available at [https://kingdavid.engineer/](https://kingdavid.engineer/)
 - 📫 How to reach me **xuwudawei100@gmail.com**
-- 📄 Know about my experiences [https://kingdavid.engineer/static/DavidResume-a4dbfe87bd373f584ffa913a3dd9e9b7.pdf](https://kingdavid.engineer/static/DavidResume-a4dbfe87bd373f584ffa913a3dd9e9b7.pdf)
-- ⚡ Fun fact **"I have a PHD Degree in Chinese Language(Speaking and Writing)."**
+- ⚡ Fun fact **"I have a full language proficiency in Mandarin Chinese."**
 
 ---
 
 <a href="https://github.com/xuwudawei">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuwudawei&include_all_commits=true&count_private=true&show_icons=true&theme=dark&line_height=27" alt="David's github stats"/>
 </a>
+
 <a href="https://github.com/xuwudawei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuwudawei&theme=light&layout=compact&langs_count=10&line_height=27&hide_langs_below=1" />
 </a>
+
 <br>
+
 <p float="left">
-  
   <a href="https://github.com/xuwudawei"><img src="https://github-profile-trophy.vercel.app/?username=xuwudawei" alt="xuwudawei" /></a>
   <a><img  src="https://github-readme-streak-stats.herokuapp.com/?user=xuwudawei&" alt="xuwudawei" /></a>
 </p>
