@@ -18,7 +18,7 @@
 <a href="https://github.com/xuwudawei">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuwudawei&include_all_commits=true&count_private=true&show_icons=true&theme=dark&line_height=27" alt="David's github stats"/>
 </a>
-<br>
+
 
 <a href="https://github.com/xuwudawei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuwudawei&theme=light&layout=compact&langs_count=10&line_height=27&hide_langs_below=1" />
@@ -27,7 +27,7 @@
 <br>
 
 <p float="left">
-  <a href="https://github.com/xuwudawei"><img src="https://github-profile-trophy.vercel.app/?username=xuwudawei" alt="xuwudawei" /></a>
+  
   <a><img  src="https://github-readme-streak-stats.herokuapp.com/?user=xuwudawei&" alt="xuwudawei" /></a>
 </p>
 
