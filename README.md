@@ -14,6 +14,7 @@
 - ⚡ Fun fact **"I have a full language proficiency in Mandarin Chinese."**
 
 ---
+[![David's github activity graph](https://activity-graph.herokuapp.com/graph?username=xuwudawei&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/xuwudawei">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuwudawei&include_all_commits=true&count_private=true&show_icons=true&theme=dark&line_height=27" alt="David's github stats"/>
