@@ -21,9 +21,6 @@
 </a>
 
 
-<a href="https://github.com/xuwudawei">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuwudawei&theme=light&layout=compact&langs_count=10&line_height=27&hide_langs_below=1" />
-</a>
 
 <br>
 
@@ -31,6 +28,10 @@
   
   <a><img  src="https://github-readme-streak-stats.herokuapp.com/?user=xuwudawei&" alt="xuwudawei" /></a>
 </p>
+<a href="https://github.com/xuwudawei">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuwudawei&theme=light&layout=compact&langs_count=10&line_height=27&hide_langs_below=1" />
+</a>
+
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://kingdavid.engineer/)
