@@ -7,7 +7,7 @@
 [![Stack_Overflow Badge](https://img.shields.io/badge/-%40KingDavid-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/users/14708858/david)](https://stackoverflow.com/users/14708858/david) 
 
 ## An experienced Full Stack Mobile App Developer.
-- 🔭 I’m currently working on **a zomato clone Project.**
+- 🔭 I’m currently working on a project called **Phubie (https://phubie.com/).**
 - 🌱 I love building things.
 - 👨‍💻 All of my projects are available at [https://kingdavid.engineer/](https://kingdavid.engineer/)
 - 📫 How to reach me **xuwudawei100@gmail.com**
