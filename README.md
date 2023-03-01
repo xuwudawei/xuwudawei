@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [David Osei Opoku](https://kingdavid.engineer/)
+### Hi there 👋, I'm [David Osei Opoku](https://king-david.me/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-%40KingDavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-osei-opoku-2803a6181/)](https://www.linkedin.com/in/david-osei-opoku-2803a6181/) 
 [![Twitter Badge](https://img.shields.io/badge/-%40KingDavid-yellow?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/OPOKUDAVIDOSEI1)](https://twitter.com/OPOKUDAVIDOSEI1) 
@@ -9,7 +9,7 @@
 ## An experienced Full Stack Mobile App Developer.
 - 🔭 I’m currently working on a project called **Phubie (https://phubie.com/).**
 - 🌱 I love building things.
-- 👨‍💻 All of my projects are available at [https://kingdavid.engineer/](https://kingdavid.engineer/)
+- 👨‍💻 All of my projects are available at [https://king-david.me/](https://king-david.me/)
 - 📫 How to reach me **xuwudawei100@gmail.com**
 - ⚡ Fun fact **"I have a full language proficiency in Mandarin Chinese."**
 
@@ -33,7 +33,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://kingdavid.engineer/)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://king-david.me/)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/OPOKUDAVIDOSEI1)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/david-osei-opoku-2803a6181/)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100010966662784)
