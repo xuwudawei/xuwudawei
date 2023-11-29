@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-%40KingDavid-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/opokudavidosei/)](https://www.instagram.com/opokudavidosei/) 
 [![Stack_Overflow Badge](https://img.shields.io/badge/-%40KingDavid-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://stackoverflow.com/users/14708858/david)](https://stackoverflow.com/users/14708858/david) 
 
-## An experienced Full Stack Mobile App Developer.
+## An experienced Full Stack Software Engineer.
 - 🔭 I’m currently working on a project called **Phubie (https://phubie.com/).**
 - 🌱 I love building things.
 - 👨‍💻 All of my projects are available at [https://king-david.me/](https://king-david.me/)
