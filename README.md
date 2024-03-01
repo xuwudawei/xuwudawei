@@ -10,7 +10,7 @@
 - 🔭 Master's in Computer Science and Technology at **Tsinghua University (https://ac.cs.tsinghua.edu.cn/).**
 - 👨‍💻 I love building things.
 - 📫 How to reach me **daw23@mails.tsinghua.edu.cn || xuwudawei100@gmail.com**
-- ⚡ Fun fact **"I have a full language proficiency in Mandarin Chinese (HSK 6)."**
+- ⚡ Interesting fact **"I have a full language proficiency in Mandarin Chinese (HSK 6)."**
 
 ---
 
